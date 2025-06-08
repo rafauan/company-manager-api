@@ -11,7 +11,7 @@ Należy wykonać następujące komendy
     composer install
     php artisan server
 Serwer działa na adresie http://127.0.0.1:8000 albo na http://localhost:8000.
-Do repozytorium jest dodany plik database.sql i .env, więc migracja nie jest wymagana.
+Do repozytorium zostały dodane pliki database.sql i .env, więc migracja nie jest wymagana.
 
 ## 📌 Endpointy API
 
