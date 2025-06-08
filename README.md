@@ -9,7 +9,7 @@ Należy wykonać następujące komendy
     git clone https://github.com/rafauan/company-manager-api
     cd company-manager-api/
     composer install
-    php artisan server
+    php artisan serve
 Serwer działa na adresie http://127.0.0.1:8000 albo na http://localhost:8000.
 Do repozytorium zostały dodane pliki database.sql i .env, więc migracja nie jest wymagana.
 
