@@ -6,6 +6,7 @@
 # Instalacja
 Należy wykonać następujące komendy
 
+    git clone https://github.com/rafauan/company-manager-api
     cd company-manager-api/
     composer install
     php artisan server
