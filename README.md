@@ -10,7 +10,7 @@ Należy wykonać następujące komendy
     cd company-manager-api/
     composer install
     php artisan server
-Serwer działa na adresie http://127.0.0.1:8000 albo na http://localhost:8000
+Serwer działa na adresie http://127.0.0.1:8000 albo na http://localhost:8000.
 Do repozytorium jest dodany plik database.sql i .env, więc migracja nie jest wymagana.
 
 ## 📌 Endpointy API
